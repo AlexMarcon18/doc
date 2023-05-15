@@ -1,4 +1,4 @@
-CREATE TABLE catégories(
+CREATE TABLE categories(
    Id_cat COUNTER,
    nom_cat VARCHAR(50) NOT NULL,
    PRIMARY KEY(Id_cat),
